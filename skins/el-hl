@@ -1,0 +1,9 @@
+.el-hl {
+  --header-bg: #0dd8e470;
+	--heading-color: #000000;
+	--primary-color: #21b670;
+	--border-color: #0886b650;
+	--link-color: #0e101a;
+	--text-color: #4b5b5e;
+  --bg-color: #d1eef2;
+}
